@@ -1,5 +1,12 @@
 
-*Note:* this repo has been forked to add a package.json. top level meta files have been allowed to suppress errors. It is otherwise unchanged.
+*Note:* this repo has been forked to make it a package. See changes below. It is otherwise unchanged.
+
+Change List:
+
+- Added a package.json
+- Top level meta files have been added to suppress errors
+- Added an Assembly Definition
+- Specify Moment.MinAttribute to avoid conflict with UnityEngine
 
 # Moments
 
