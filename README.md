@@ -1,5 +1,5 @@
 
-*Note:* this repo has been forked to add a package.json. It is otherwise unchanged.
+*Note:* this repo has been forked to add a package.json. top level meta files have been allowed to suppress errors. It is otherwise unchanged.
 
 # Moments
 
